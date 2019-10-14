@@ -9,7 +9,6 @@
 - [Arroyo Martín, Juan José](https://github.com/jjam80) :octocat: `jjam80`
 - [Asencio Rivera, Carlos](https://github.com/carlosasencio) :octocat: `carlosasencio`
 - [Casado García, Adrián](https://github.com/adriancg98) :octocat: `adriancg98`
-- [Carmona Jarit, Ángel](https://github.com/SrJarit) :octocat: `SrJarit`
 - [Delgado Paniagua, Valle](https://github.com/Yaye83) :octocat: `Yaye83`
 - [Fernández Velarde, Juan Manuel](https://github.com/juanmaferv96) :octocat: `juanmaferv96`
 - [García Martín, Javier](https://github.com/Jagama98) :octocat: `Jagama98`
@@ -24,7 +23,7 @@
 - [Pérez-Gallardo Rodríguez, José Antonio](https://github.com/j486) :octocat: `j486`
 - [Reina Durán, Jaime](https://github.com/Jaimeredu) :octocat: `Jaimeredu`
 - [Reyes Jiménez, José Pablo](https://github.com/jsepablo) :octocat: `jsepablo`
-
+- [Silvestre Gentil, Ignacio](https://github.com/ignaciosige) :octocat: `ignaciosige`
 
 ### 2º DAW
 
