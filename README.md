@@ -16,7 +16,6 @@
 - [González Lozada, José Miguel](https://github.com/z3myY) :octocat: `z3myY`
 - [Gutiérrez Delgado, Jesús David](https://github.com/jesusdavidguti) :octocat: `jesusdavidguti`
 - [Jaén Miranda, Noelia](https://github.com/noeliajaen) :octocat: `noeliajaen`
-- [Martín Benítez, Luis](https://github.com/Luiswave) :octocat: `Luiswave`
 - [Moustarchid, Mohamed Amin](https://github.com/amink7) :octocat: `amink7`
 - [Ortiz Rincón, Daniel Jorge](https://github.com/dor245) :octocat: `dor245`
 - [Parejo Benítez, Miguel](https://github.com/miguelparejo) :octocat: `miguelparejo`
