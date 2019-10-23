@@ -12,13 +12,13 @@
 - [Delgado Paniagua, Valle](https://github.com/Yaye83) :octocat: `Yaye83`
 - [Fernández Velarde, Juan Manuel](https://github.com/juanmaferv96) :octocat: `juanmaferv96`
 - [García Martín, Javier](https://github.com/Jagama98) :octocat: `Jagama98`
-- [González González, Manuel](https://github.com/mgg20) :octocat: `mgg20`
 - [González Lozada, José Miguel](https://github.com/z3myY) :octocat: `z3myY`
 - [Gutiérrez Delgado, Jesús David](https://github.com/jesusdavidguti) :octocat: `jesusdavidguti`
 - [Jaén Miranda, Noelia](https://github.com/noeliajaen) :octocat: `noeliajaen`
 - [Moustarchid, Mohamed Amin](https://github.com/amink7) :octocat: `amink7`
 - [Ortiz Rincón, Daniel Jorge](https://github.com/dor245) :octocat: `dor245`
 - [Parejo Benítez, Miguel](https://github.com/miguelparejo) :octocat: `miguelparejo`
+- [Pérez Márquez, Rosa María](https://github.com/) :octocat: ` `
 - [Pérez-Gallardo Rodríguez, José Antonio](https://github.com/j486) :octocat: `j486`
 - [Reina Durán, Jaime](https://github.com/Jaimeredu) :octocat: `Jaimeredu`
 - [Reyes Jiménez, José Pablo](https://github.com/jsepablo) :octocat: `jsepablo`
