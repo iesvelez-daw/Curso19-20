@@ -31,7 +31,7 @@
 - [Cordobés Carmona, Javier](https://github.com/Jcordobes) :octocat: `Jcordobes`
 - [De la Matta Cadenas, Julio](https://github.com/kibrands) :octocat: `kibrands`
 - [Del Moral Alcántara, Álvaro](https://github.com/alvarodelmoral) :octocat: `alvarodelmoral`
-- [Del Río Ruger, Iván](https://github.com/Ivan2604) :octocat: `Ivan2604`
+- [Del Río Ruger, Iván](https://github.com/ivan-drr) :octocat: `ivan-drr`
 - [Filter Cifuentes, José](https://github.com/josefilter) :octocat: `josefilter`
 - [Fortea Dugo, Mateo](https://github.com/mfortea) :octocat: `mfortea`
 - [García Castilla, Manuel](https://github.com/ManuelGC98) :octocat: `ManuelGC98`
