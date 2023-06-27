@@ -3,9 +3,8 @@
 ## Listado de alumnado
 
 
-### 1º DAW
-
-- [Aguilar Caro, Antonio Manuel](https://github.com/antonio-aguilar) :octocat: `antonio-aguilar`
+### 1º woctocat
+- [Aguilar Caro, Antonio Manuel](https://github.com/antonio-aguilar) :woctocat: `antonio-aguilar`
 - [Arroyo Martín, Juan José](https://github.com/jjam80) :octocat: `jjam80`
 - [Asencio Rivera, Carlos](https://github.com/carlosasencio) :octocat: `carlosasencio`
 - [Casado García, Adrián](https://github.com/adriancg98) :octocat: `adriancg98`
